@@ -1,0 +1,11 @@
+lia/mochi/apply.smt2
+lia/mochi/neg1.smt2
+lia/termination/CE-0CFA03.smt2
+lia/termination/CE-1CFA03.smt2
+lia/termination/CE-1CFA04.smt2
+lia/termination/CE-1CFA07.smt2
+lia/termination/CE-1CFA09.smt2
+lia/termination/CE-Jones_Bohr04.smt2
+lia/termination/up_down02.smt2
+lia/termination/up_down05.smt2
+lia/termination/x_plus_2_pow_n01.smt2
